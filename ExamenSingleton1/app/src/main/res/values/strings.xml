@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ejercicio1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="escribeUniversidad">Escribe tu Ciudad</string>
+    <string name="escribe_ciudad">Escribe tu ciudad</string>
+
+</resources>
